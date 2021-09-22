@@ -68,6 +68,7 @@ $ python2 mailer.py
 <h3 align="center">Educational Purpose Only</h3>
 
 ### My Projects
+- [**SEE-YOU**](https://github.com/rifkykd/SEE-YOU)
 - [**Fake-Mailer**](https://github.com/rifkykd/Fake-Mailer)
 - [**KD-Host**](https://github.com/rifkykd/KD-Host)
 - [**KD-HACKERS**](https://github.com/rifkykd/KD-HACKERS)
