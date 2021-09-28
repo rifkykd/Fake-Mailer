@@ -12,17 +12,6 @@ Send Mails Anonymously ✌️
 </pre>
 
   
-
-
-
-
-
-
-
-
-
-
-
 ###  ***Installation***:
 
 ```
