@@ -8,7 +8,7 @@ Send Mails Anonymously ✌️
  | | | (_| |   <  __/  | |  | | (_| | | |  __/ |   
  |_|  \__,_|_|\_\___|  |_|  |_|\__,_|_|_|\___|_|   
           
-          [+] CREATED BY Rifky KD 
+            [+] CREATED BY Rifky KD 
 </pre>
 
   
