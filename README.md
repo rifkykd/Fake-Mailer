@@ -1,7 +1,14 @@
 <h1 align="center">Fake Mailer</h1>
 Send Mails Anonymously ✌️
-<img align="center" src="KD.png"/>
-
+<pre align="center">
+  ______    _           __  __       _ _           
+ |  ____|  | |         |  \/  |     (_) |          
+ | |__ __ _| | _____   | \  / | __ _ _| | ___ _ __ 
+ |  __/ _  | |/ / _ \  | |\/| |/ _  | | |/ _ \  __|
+ | | | (_| |   <  __/  | |  | | (_| | | |  __/ |   
+ |_|  \__,_|_|\_\___|  |_|  |_|\__,_|_|_|\___|_|   
+          [+] CREATED BY Rifky KD 
+</pre>
 
   
 
